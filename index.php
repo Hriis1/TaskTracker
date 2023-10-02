@@ -30,6 +30,20 @@
                     Button
                 </div>
             </div>
+
+            <hr>
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Task</th>
+                        <th>Start</th>
+                        <th>End</th>
+                        <th>Time</th>
+                        <th colspan="2">Controls</th>
+                    </tr>
+                </thead>
+            </table>
         </div>
     </main>
 
