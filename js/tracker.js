@@ -1,7 +1,8 @@
 $(document).ready(function()
 {
-    $("#form-new").submit(function()
+    $("#form-new").submit(function(event)
     {
-        alert("zzzzz");
+        //Prevents the form from reloading the page
+        event.preventDefault();
     });
 });
