@@ -49,8 +49,8 @@
                         <td>Data</td>
                         <td>Data</td>
                         <td>Data</td>
-                        <td>Button</td>
-                        <td>Button</td>
+                        <td><button class="btn btn-primary">Stop</button></td>
+                        <td><button class="btn btn-danger">X</button></td>
                     </tr>
                 </tbody>
             </table>
