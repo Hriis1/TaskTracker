@@ -13,7 +13,7 @@ $(document).ready(function()
             url: "include/log.php",
             data: formData,
             success: function (response) {
-                alert(response);
+                //alert(response["key"]);
             }
         });
     });
