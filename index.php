@@ -21,15 +21,15 @@
                 </div>
             </header>
 
-            <div class="row">
+            <form action="" class="row">
                 <div class="col-sm-10">
-                    Input here
+                    <input type="text" class="form-control" placeholder="Enter new task name...">
                 </div>
 
                 <div class="col-sm-2">
-                    Button
+                    <button type="submit" class="btn btn-block btn-success">Add</button>
                 </div>
-            </div>
+            </form>
 
             <hr>
 
