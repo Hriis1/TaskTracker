@@ -29,7 +29,7 @@ include_once("functions.php");
                 </div>
 
                 <div class="col-sm-2">
-                    <button type="submit" class="btn btn-block btn-success"><?php echo createIcon("play")?></button>
+                    <button type="submit" class="btn btn-block btn-success"><?php createIconLineHeight("play", 1.5)?></button>
                 </div>
             </form>
 
