@@ -14,7 +14,17 @@
 </head>
 <body>
     <main>
+        <div class="container-fluid">
+            <header class="row">
+                <div class="col-sm-6">
+                    <a href="#">Enter Restore Mode</a>
+                </div>
 
+                <div class="col-sm-6">
+                    Total Time: 
+                </div>
+            </header>
+        </div>
     </main>
 
     <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
