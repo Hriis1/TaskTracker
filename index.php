@@ -27,7 +27,7 @@
                 </div>
 
                 <div class="col-sm-2">
-                    <button type="submit" class="btn btn-block btn-success">Add</button>
+                    <button type="submit" class="btn btn-block btn-success"><i class="fa fa-play" style="line-height: 1.5 !important;"></i></button>
                 </div>
             </form>
 
