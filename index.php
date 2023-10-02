@@ -43,6 +43,16 @@
                         <th colspan="2">Controls</th>
                     </tr>
                 </thead>
+                <tbody>
+                    <tr>
+                        <td>Data</td>
+                        <td>Data</td>
+                        <td>Data</td>
+                        <td>Data</td>
+                        <td>Button</td>
+                        <td>Button</td>
+                    </tr>
+                </tbody>
             </table>
         </div>
     </main>
